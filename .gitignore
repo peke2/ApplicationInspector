@@ -1,3 +1,4 @@
-src/
+target/
 *.bak
+.DS_Store
 temp.txt
